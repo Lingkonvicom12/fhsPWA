@@ -2,9 +2,9 @@
   "version": "1.0",
   "id": "/",
   "name": "Fuad Hasan Shihab",
-  "short_name": "FH Shihab",
-  "description": "Install the Fuad Hasan Shihab app now!",
-  "start_url": "https://fuadhasanshihab.blogspot.com/?utm_source=homescreen",
+  "short_name": "Fuad Hasan",
+  "description": "Install the app now!",
+  "start_url": "https://fuadhasanshihab.blogspot.com/p/app.html?utm_source=homescreen",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -108,6 +108,42 @@
     },
     {
       "name": "Tools",
+      "short_name": "Resources",
+      "description": "Explore a curated selection of free and premium graphic design resources, offering a diverse range to meet various design needs.",
+      "url": "https://fuadhasanshihab.blogspot.com/search/label/Resources?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Tutorial",
+      "short_name": "Resources",
+      "description": "Explore a curated selection of free and premium graphic design resources, offering a diverse range to meet various design needs.",
+      "url": "https://fuadhasanshihab.blogspot.com/search/label/Resources?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Live chat",
+      "short_name": "Resources",
+      "description": "Explore a curated selection of free and premium graphic design resources, offering a diverse range to meet various design needs.",
+      "url": "https://fuadhasanshihab.blogspot.com/search/label/Resources?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "contact",
       "short_name": "Tools",
       "description": "Discover our all-in-one tools page featuring a converter, spell checker, color picker, image editor, symbol library, QR code generator, and more tools to enhance productivity and creativity.",
       "url": "https://fuadhasanshihab.blogspot.com/search/label/Tools?utm_source=homescreen",

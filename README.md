@@ -1,4 +1,4 @@
-# Blogger PWA using CDN
+# PWA using CDN
 
 Build a PWA application for your Blogger blog using CDN services like [JsDelivr](https://www.jsdelivr.com).
 

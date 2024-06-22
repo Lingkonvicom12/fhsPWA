@@ -1,10 +1,10 @@
 {
   "version": "1.0",
   "id": "/",
-  "name": "My Blog",
-  "short_name": "My Blog",
-  "description": "My blog description goes here...",
-  "start_url": "https://my-blog.blogspot.com/?utm_source=homescreen",
+  "name": "Fuad Hasan Shihab",
+  "short_name": "Fuad Hasan",
+  "description": "Install now",
+  "start_url": "https://fuadhasanshiihab.blogspot.com/app?utm_source=homescreen",
   "dir": "auto",
   "lang": "en-US",
   "orientation": "any",
@@ -95,10 +95,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
-      "short_name": "My Shortcut 1",
+      "name": "Resources",
+      "short_name": "Resources",
       "description": "My Shortcut 1 description goes here...",
-      "url": "https://my-blog.blogspot.com/search/label/my-shortcut-1?utm_source=homescreen",
+      "url": "https://fuadhasanshihab.blogspot.com/p/app-resources.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-96x96.png",
@@ -107,10 +107,10 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
-      "short_name": "My Shortcut 2",
+      "name": "Tools",
+      "short_name": "Tools",
       "description": "My Shortcut 2 description goes here...",
-      "url": "https://my-blog.blogspot.com/search/label/my-shortcut-2?utm_source=homescreen",
+      "url": "https://fuadhasanshihab.blogspot.com/p/app-tools.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-96x96.png",

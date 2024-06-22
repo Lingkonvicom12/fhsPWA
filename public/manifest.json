@@ -10,8 +10,9 @@
   "orientation": "any",
   "display": "standalone",
   "prefer_related_applications": false,
-  "background_color": "#fff",
-  "theme_color": "#fff",
+  "background_color": "#5956e9",
+  "theme_color": "#5956e9",
+  "categories": ["design", "graphics", "graphics & design"],
   "icons": [
     {
       "src": "icons/favicon.ico",

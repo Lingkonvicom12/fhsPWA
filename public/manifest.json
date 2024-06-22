@@ -7,7 +7,7 @@
   "start_url": "https://fuadhasanshihab.blogspot.com/app?utm_source=homescreen",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "natural",
+  "orientation": "any",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",
@@ -109,8 +109,20 @@
     {
       "name": "Tools",
       "short_name": "Tools",
-      "description": "My Shortcut 2 description goes here...",
+      "description": "My Shortcut 1 description goes here...",
       "url": "https://fuadhasanshihab.blogspot.com/p/app-tools.html?utm_source=homescreen",
+      "icons": [
+        {
+          "src": "icons/android-icon-96x96.png",
+          "sizes": "96x96"
+        }
+      ]
+    },
+    {
+      "name": "Tutorial",
+      "short_name": "Tutorial",
+      "description": "My Shortcut 2 description goes here...",
+      "url": "https://fuadhasanshihab.blogspot.com/p/app-tutorial.html?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-96x96.png",

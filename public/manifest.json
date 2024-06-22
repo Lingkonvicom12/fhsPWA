@@ -63,33 +63,33 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/screen-1.png",
+      "src": "screenshots/narrow1.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "720x1280",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/screen-2.png",
+      "src": "screenshots/narrow2.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "720x1280",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/screen-3.png",
+      "src": "screenshots/narrow3.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "720x1280",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/screen-4.png",
+      "src": "screenshots/narrow4.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "720x1280",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/screen-5.png",
+      "src": "screenshots/narrow5.png",
       "type": "image/png",
-      "sizes": "540x720",
+      "sizes": "720x1280",
       "form_factor": "narrow"
     }
   ],

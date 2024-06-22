@@ -133,6 +133,28 @@ JsDelivr caches files on their server so if you update any file on GitHub, it wi
 
 In that case you manually need to tell JsDelivr to purge cache. You can use this JsDelivr's [Purge Cache Tool](https://www.jsdelivr.com/tools/purge) to do so.
 
+```html
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-57x57.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-60x60.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-72x72.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-76x76.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-114x114.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-120x120.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-144x144.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-152x152.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/apple-icon-180x180.png
+```
+
+```html
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/favicon-16x16.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/favicon-32x32.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/favicon-96x96.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/icons/android-icon-192x192.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/splashscreens/ios-startup-2048x2732.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/splashscreens/ios-startup-2732x2048.png
+https://cdn.jsdelivr.net/gh/fuadhasanshihab/fhsPWA/public/manifest.json
+```
+
 ## Caveats
 
 You can build a PWA app using it but you can't do the following since it requires resources from same origin:

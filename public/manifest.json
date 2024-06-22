@@ -154,5 +154,23 @@
         }
       ]
     }
+  ],
+  "intent_filters": [
+    {
+      "action": "VIEW",
+      "autoVerify": true,
+      "data": {
+        "schemes": [
+          "http",
+          "https"
+        ],
+        "host": "fuadhasanshihab.blogspot.com",
+        "pathPrefix": "/"
+      },
+      "category": [
+        "BROWSABLE",
+        "DEFAULT"
+      ]
+    }
   ]
 }

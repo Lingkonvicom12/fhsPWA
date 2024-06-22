@@ -7,7 +7,7 @@
   "start_url": "https://fuadhasanshihab.blogspot.com/app?utm_source=homescreen",
   "dir": "auto",
   "lang": "en-US",
-  "orientation": "any",
+  "orientation": "portrait-primary",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#fff",

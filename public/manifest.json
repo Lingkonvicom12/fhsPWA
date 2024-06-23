@@ -97,13 +97,13 @@
       "src": "screenshots/wide1.png",
       "type": "image/png",
       "sizes": "1280x720",
-      "form_factor": "narrow"
+      "form_factor": "wide"
     },
     {
       "src": "screenshots/wide2.png",
       "type": "image/png",
       "sizes": "1280x720",
-      "form_factor": "narrow"
+      "form_factor": "wide"
     }
   ],
   "shortcuts": [

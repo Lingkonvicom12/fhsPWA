@@ -1,8 +1,8 @@
 # PWA using CDN
 
-Build a PWA application for your Blogger blog using CDN services like [JsDelivr](https://www.jsdelivr.com).
+Build a PWA application <!--for your Blogger blog -->using CDN services like [JsDelivr](https://www.jsdelivr.com).
 
-Works with `blogspot.com` subdomains.
+<!--Works with `blogspot.com` subdomains.-->
 
 ## Getting Started
 
@@ -16,10 +16,10 @@ Fork this repository with an appropriate name. You can name the repository same 
 
 ### 2. Upload Favicons
 
-1. Prepare an icon for your blog in `.png` extension with a size of `512x512` (recommended file size: maximum `150KiB`).
+1. Prepare an icon <!--for your blog--> in `.png` extension with a size of `512x512` (recommended file size: maximum `150KiB`).
    * Rename the file as `android-icon-512x512.png`
 
-2. Go to [favicon-generator.org](https://www.favicon-generator.org/) and generate favicons by uploading the blog icon.
+2. Go to [favicon-generator.org](https://www.favicon-generator.org/) and generate favicons by uploading the <!--blog--> icon.
 
 3. Download the generated favicon and extract the files.
    * Delete unnecessary files: `browserconfig.xml`, `manifest.json`
@@ -47,15 +47,16 @@ Fork this repository with an appropriate name. You can name the repository same 
 
 <!--
 2. The file looks something like the following:
+   [developer.mozilla.org/en-US/docs/Web/Manifest](https://developer.mozilla.org/en-US/docs/Web/Manifest#example_manifest)
    [@kumardeo/blogger-pwa-cdn/manifest.json](https://github.com/kumardeo/blogger-pwa-cdn/blob/main/public/manifest.json) 
 -->
 
-4. Replace the blog name, urls, etc. with appropriate values.
+4. Replace the <!--blog--> name, urls, etc. with appropriate values.
    * You can also add your custom `screenshots`, `icons`, etc. Refer to [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/Manifest).
 
 ### 5. Edit Template XML
 
-1. Now go to Blogger Dashboard. Go to `Theme` section.
+1. Now go to<!-- Blogger --> Dashboard. Go to `Theme` section.
 
 2. Click on `Edit HTML`.
 
@@ -101,7 +102,7 @@ You may want to add a custom button on your site which shows the installation pr
 
    ```html
    <style>/*<![CDATA[*/
-   /*! Custom PWA install button by Fineshop Design */
+   /*! Custom PWA install button */
    .pwa-button{position:fixed;z-index:999;left:20px;bottom:75px;display:flex;align-items:center;justify-content:center;width:40px;height:40px;border:none;border-radius:50%;background:#1900ff;visibility:visible;opacity:1;transition:visibility .5s,opacity .5s}
    .pwa-button[hidden]{display:flex;visibility:hidden;opacity:0}
    .pwa-button:not([disabled])::before{content:'';position:absolute;z-index:-1;inset:0;background:inherit;border-radius:inherit;animation:1s cubic-bezier(0,0,.2,1) infinite pwa-button-ping}
@@ -114,7 +115,7 @@ You may want to add a custom button on your site which shows the installation pr
 
    ```html
    <script type='module'>/*<![CDATA[*/
-   /*! Custom PWA install button by Fineshop Design */
+   /*! Custom PWA install button */
    (({button:t,onInstall:n})=>{let i=null;var e=()=>{i&&(t.disabled=!0,i.prompt().then(e=>{"accepted"===e.outcome&&o()}).finally(()=>{t.disabled=!1}),i=null)},l=e=>{e.preventDefault(),i=e,t.hidden=!1};const o=()=>{t.hidden=!0,t.removeEventListener("click",e),window.removeEventListener("beforeinstallprompt",l)};t instanceof HTMLElement&&(t.hidden=!0,t.addEventListener("click",e),window.addEventListener("beforeinstallprompt",l));const d=e=>{t instanceof HTMLElement&&o(),"function"==typeof n&&n(e),window.removeEventListener("appinstalled",d)};window.addEventListener("appinstalled",d)})({
      button: document.getElementById("app_install_button")||Object.assign(document.body.appendChild(document.createElement("button")),{hidden:!0,type:"button",className:"pwa-button",innerHTML:"<svg class='flash' viewBox='0 0 24 24'><path d='M6.08998 13.28H9.17998V20.48C9.17998 22.16 10.09 22.5 11.2 21.24L18.77 12.64C19.7 11.59 19.31 10.72 17.9 10.72H14.81V3.52002C14.81 1.84002 13.9 1.50002 12.79 2.76002L5.21998 11.36C4.29998 12.42 4.68998 13.28 6.08998 13.28Z' stroke-miterlimit='10'></path></svg>"}),
      onInstall(){

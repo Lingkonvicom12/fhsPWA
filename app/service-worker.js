@@ -6,8 +6,10 @@ self.addEventListener('install', function(event) {
                 '/',
                 '/app/index.html',
                 '/app/styles.css',
-                '/app/script.js'
-                // Add other assets you want to cache
+                '/app/script.js',
+                '/app/manifest.json',
+                '/app/icon-192x192.png',
+                '/app/icon-512x512.png'
             ]);
         })
     );

@@ -6,13 +6,20 @@
   "description": "Access graphic design tools, unlock exclusive resources, learn through step-by-step tutorials and insightful blogs—all in one convenient app. INSTALL NOW and unleash design potential!",
   "start_url": "https://fuadhasanshihab.blogspot.com/app?utm_source=homescreen",
   "dir": "auto",
-  "lang": "en-US",
-  "orientation": "any",
+  "lang": "en",
+  "scope": "/",
+  "orientation": "natural",
   "display": "standalone",
   "prefer_related_applications": false,
   "background_color": "#5956e9",
   "theme_color": "#5956e9",
-  "categories": ["design", "graphics", "graphics & design"],
+  "categories": [
+    "design",
+    "graphics",
+    "graphics & design",
+    "photo",
+    "productivity"
+  ],
   "icons": [
     {
       "src": "icons/favicon.ico",

@@ -13,10 +13,10 @@
   "prefer_related_applications": false,
   "background_color": "#5956e9",
   "theme_color": "#5956e9",
+  "edge_side_panel": {},
   "categories": [
     "design",
     "graphics",
-    "graphics & design",
     "photo",
     "productivity"
   ],

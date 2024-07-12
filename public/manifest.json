@@ -158,7 +158,7 @@
       "url": "https://fuadhasanshihab.blogspot.com/p/app-resources.html?utm_source=homescreen",
       "icons": [
         {
-          "src": "icons/android-icon-96x96.png",
+          "src": "icons/resources.png",
           "sizes": "96x96"
         }
       ]
@@ -170,7 +170,7 @@
       "url": "https://fuadhasanshihab.blogspot.com/p/app-tools.html?utm_source=homescreen",
       "icons": [
         {
-          "src": "icons/android-icon-96x96.png",
+          "src": "icons/tools.png",
           "sizes": "96x96"
         }
       ]
@@ -182,7 +182,7 @@
       "url": "https://fuadhasanshihab.blogspot.com/p/app-tutorial.html?utm_source=homescreen",
       "icons": [
         {
-          "src": "icons/android-icon-96x96.png",
+          "src": "icons/tutorials.png",
           "sizes": "96x96"
         }
       ]

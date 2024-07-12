@@ -7,7 +7,7 @@
   "start_url": "https://fuadhasanshihab.blogspot.com/app?utm_source=homescreen",
   "dir": "auto",
   "lang": "en",
-  "scope": "/",
+  "scope": "https://fuadhasanshihab.blogspot.com/",
   "orientation": "any",
   "display": "standalone",
   "prefer_related_applications": false,

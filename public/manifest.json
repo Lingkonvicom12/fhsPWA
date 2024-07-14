@@ -96,39 +96,57 @@
   ],
   "screenshots": [
     {
-      "src": "screenshots/narrow1.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/1.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/narrow2.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/2.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/narrow3.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/3.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/narrow4.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/4.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/narrow5.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/5.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {
-      "src": "screenshots/narrow6.png",
-      "type": "image/png",
-      "sizes": "720x1280",
+      "src": "screenshots/narrow/6.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/narrow/7.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/narrow/8.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "screenshots/narrow/9.jpg",
+      "type": "image/jpeg",
+      "sizes": "1080x1920",
       "form_factor": "narrow"
     },
     {

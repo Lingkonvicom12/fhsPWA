@@ -10,17 +10,8 @@
   "scope": "https://fuadhasanshihab.blogspot.com/",
   "orientation": "any",
   "display": "standalone",
-  "prefer_related_applications": false,
   "background_color": "#5956e9",
   "theme_color": "#5956e9",
-  "edge_side_panel": {},
-  "handle_links": "preferred",
-  "categories": [
-    "design",
-    "graphics",
-    "photo",
-    "productivity"
-  ],
   "icons": [
     {
       "src": "icons/favicon.ico",
